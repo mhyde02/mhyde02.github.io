@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Matthew Hyde / University of Edinburgh</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css'>
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="css/custom.css">
+
+  <!-- Scripts
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <link rel="stylesheet" href="css/github-prettify-theme.css">
+  <script src="js/site.js"></script>
+
+
+  <!-- MathJax stuff. -->
+  <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
+  </script>
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+  tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+  });
+  </script>
+  <script type="text/javascript" async src="path-to-mathjax/MathJax.js?config=TeX-AMS_CHTML"></script>
+
+
+</head>
+<body class="code-snippets-visible">
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="container">
+    <section class="header">
+      <h2 class="title">Matthew Hyde</h2>
+      <h5 class="subtitle">
+	     PhD Student
+      </h5>
+
+    </section>
+  
+    <div class="navbar-spacer"></div>
+    <nav class="navbar">
+      <div class="container">
+       <ul class="navbar-list">
+          
+        <li class="navbar-item"><a class="navbar-link" href="#Me">About me</a></li>
+
+        <li class="navbar-item"><a class="navbar-link" href="#Papers">Papers</a></li>
+
+	<li class="navbar-item"><a class="navbar-link" href="#Conferences">Conferences</a></li>
+
+	<li class="navbar-item"><a class="navbar-link" href="#Teaching">Teaching</a></li>
+		  
+        <li class="navbar-item"><a class="navbar-link" href="#Contact">Contact</a></li>
+       </ul>
+      </div>
+    </nav>
+	
+
+
+    <div class="docs-section" id="Me">
+      <h6 class="docs-header">About me</h6>
+	 <div class="row"> 
+          <div class="six columns">
+		  <p> I am a fourth year PhD student in the <a href="http://www.maxwell.ac.uk/migsaa" target="_blank"> MIGSAA CDT</a>, based at the University of Edinburgh and working under the supervision of <a href="https://www.maths.ed.ac.uk/~jazzam/" target="_blank"> Jonas Azzam</a>. </p>
+
+		  <p> My main area of interest is geometric measure theory. More specifically, I'm interested in quantitative aspects of rectifiability, both in Euclidean and non-Euclidean settings. </p>
+
+		  <p> I hold a Masters of Mathematics (MMATH) from Durham University. </p>
+	  </div> 
+         <div class="six columns">  
+              <img src="images/matt.jpg" height=400 width=300 />
+          </div>
+      	</div>
+    </div>
+    
+    
+
+    <div class="docs-section" id="Papers">
+      <h6 class="docs-header">Papers</h6>
+        <ul>
+
+	  <li> Cone and paraboloid points of arbitrary subsets of Euclidean space, with <a href="https://www.maths.ed.ac.uk/~mvilla/" target="_blank"> Michele Villa</a> (<a href="https://arxiv.org/abs/2103.01789">arXiv</a>). </li>
+
+       	  <li> A $d$-dimensional Analyst's Travelling Salesman Theorem for general sets in $\mathbb{R}^n$ (<a href="https://arxiv.org/abs/2006.16677">arXiv</a>). </li>
+
+	  <li> The Weak Lower Density Condition and Uniform Rectifiability, with <a href="https://www.maths.ed.ac.uk/~jazzam/" target="_blank"> Jonas Azzam</a> (<a href="https://arxiv.org/abs/2005.02030" target="_blank">arXiv</a>).  </li>
+
+
+	</ul>
+
+     </div>
+
+
+	<div class="docs-section" id="Conferences">
+      <h6 class="docs-header">Conferences and Workshops</h6>
+        <ul>
+
+	  <li> <a href="https://www.birmingham.ac.uk/schools/mathematics/news-and-events/events/2019/harmonic-analysis-workshop.aspx" target="_blank">Harmonic Analysis in non-homogeneous settings and applications Workshop</a>, June 10-13, Birmginham, UK.</li>
+
+	  <li> <a href="http://www.maxwell.ac.uk/news/migsaa-mini-course-rademachers-theorem-metric-measure-spaces-and-alberti-representations" target="_blank">MIGSAA Mini-course</a>: Rademacher's theorem in metric measure spaces and Alberti representations, by David Bate (Warwick), October 22-24, 2018.</li>
+
+      	  <li> <a href="http://www.maxwell.ac.uk/migsaa/news/migsaa-annual-student-colloquium-2018-bayes-centre-potterow-edinburgh" target="_blank">MIGSAA 4th Annual Colloqium</a>, September 21, 2018, Edinburgh, UK. </li>
+
+	  <li> <a href="http://www.sussex.ac.uk/maths/research/cov-conference" target="_blank">Calculus of variations and geometric measure theory at Sussex</a>, July 2-4, 2018, University of Sussex, UK. </li>
+
+	  <li> <a href="http://www.maxwell.ac.uk/migsaa/news/migsaa-annual-student-colloquium-22-september-2017" target="_blank">MIGSAA 3rd Annual Colloqium</a>, September 22, 2017, Edinburgh, UK. </li>
+
+	</ul>
+
+     </div>
+
+	<div class="docs-section" id="Teaching">
+      <h6 class="docs-header">Teaching</h6>
+	  <ul>
+	    <li>Spring 2020:</li>
+		<ul>
+		 <li>(UoE) Workshops for Calculus and its Applications (CAP, MATH08058)</li>
+		</ul>
+	   <li>Autum 2019:</li>
+		<ul>
+		  <li>(UoE) Workshops for Introduction to Linear Algebra (ILA, MATH08057)</li>
+		  <li>(UoE) Workshops for Accelerated Proofs and Problem Solving (APPS, MATH08071)</li>
+		</ul>
+	  <li>Spring 2019:</li>
+		<ul>
+		  <li>(UoE) Workshops for Proofs and Problem Solving (PPS, MATH08059)</li>
+		</ul>
+	  <li>Autumn 2018:</li>
+		<ul>
+		  <li>(UoE) Workshops for Honours Analysis (HAna, MATH10068)</li>
+		  <li>(UoE) Workshops for Accelerated Proofs and Problem Solving (APPS, MATH08071)</li>
+		</ul>
+	</ul>
+  
+	  
+    <div class="docs-section" id="Contact">
+      <h6 class="docs-header">Contact</h6>
+        <div class="row">
+          <div class="nine columns">
+            <p>
+              Matthew Hyde <br>
+              The University of Edinburgh<br>
+              James Clerk Maxwell Building<br>
+              Peter Guthrie Tait Road<br>
+              Edinburgh EH9 3FD 
+            </p>
+	    <p>Office: Room 5210, JCMB</p>
+            <p>E-mail: m.hyde@ed.ac.uk</p>
+          </div>
+          
+        </div>
+    </div>
+
+<footer>
+<div class="docs-section" id="Update">
+	<p>Last Update: March 2021</p>
+</div>
+</footer>
+
+</body>
+
+</html>
